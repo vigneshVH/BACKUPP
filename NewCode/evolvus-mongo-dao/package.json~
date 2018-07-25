@@ -1,0 +1,27 @@
+{
+  "name": "@evolvus/evolvus-mongo-dao",
+  "version": "1.0.1",
+  "description": "`evolvus-mongo-dao` is a component that encapsulates mongodb database functionalities across all Evolvus products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evolvus/evolvus-mongo-dao.git"
+  },
+  "keywords": [
+    "evolvus",
+    "dao"
+  ],
+  "author": "Kavya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evolvus/evolvus-mongo-dao/issues"
+  },
+  "homepage": "https://github.com/Evolvus/evolvus-mongo-dao#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "mongoose": "^5.2.3"
+  }
+}
